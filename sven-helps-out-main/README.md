@@ -17,7 +17,7 @@ npm run preview
 ```
 
 ## Tech Stack
-
+ 
 - Vite
 - React
 - TypeScript
